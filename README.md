@@ -13,8 +13,6 @@
 
 ### التشغيل المحلي
 ```bash
-# تثبيت المتطلبات
-pip install -r requirements.txt
 
 # تشغيل التطبيق
 streamlit run app.py
