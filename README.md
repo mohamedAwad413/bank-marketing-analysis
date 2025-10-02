@@ -16,5 +16,5 @@
 
 # تشغيل التطبيق
 streamlit run app.py
-# Loca host
+# Local host
  http://localhost:8501
