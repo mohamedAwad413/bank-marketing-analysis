@@ -1,20 +1,19 @@
-# 🏦 تحليل حملات التسويق البنكي
+# 🏦 Bank Marketing Campaign Analysis
 
-تطبيق ويب تفاعلي للتنبؤ بسلوك العملاء في الحملات التسويقية البنكية.
+An interactive web application to predict customer behavior in bank marketing campaigns.
 
-## ✨ المميزات
+## ✨ Features
 
-- 🤖 نموذج تنبؤ ذكي باستخدام Random Forest
-- 📊 واجهة مستخدم تفاعلية وسهلة
-- 📈 تحليل البيانات وعرض النتائج
-- ☁️ يعمل مباشرة على المتصفح
+- 🤖 Smart prediction model using Random Forest  
+- 📊 Interactive and user-friendly interface  
+- 📈 Data analysis and result visualization  
+- ☁️ Runs directly in the browser  
 
-## 🚀 التشغيل السريع
+## 🚀 Quick Start
 
-### التشغيل المحلي
+### Run Locally
 ```bash
-
-# تشغيل التطبيق
+# Launch the app
 streamlit run app.py
 # Local host
- http://localhost:8501
+http://localhost:8501
